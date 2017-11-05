@@ -1,0 +1,13 @@
+D:\Projeto Renato\BHBus\BHBus.Infra\bin\Debug\BHBus.Infra.dll.config
+D:\Projeto Renato\BHBus\BHBus.Infra\bin\Debug\BHBus.Infra.dll
+D:\Projeto Renato\BHBus\BHBus.Infra\bin\Debug\BHBus.Infra.pdb
+D:\Projeto Renato\BHBus\BHBus.Infra\bin\Debug\BHBus.Domain.dll
+D:\Projeto Renato\BHBus\BHBus.Infra\bin\Debug\EntityFramework.dll
+D:\Projeto Renato\BHBus\BHBus.Infra\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projeto Renato\BHBus\BHBus.Infra\bin\Debug\System.Data.SqlServerCe.dll
+D:\Projeto Renato\BHBus\BHBus.Infra\bin\Debug\BHBus.Domain.pdb
+D:\Projeto Renato\BHBus\BHBus.Infra\bin\Debug\EntityFramework.xml
+D:\Projeto Renato\BHBus\BHBus.Infra\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projeto Renato\BHBus\BHBus.Infra\obj\Debug\BHBus.Repository.csprojResolveAssemblyReference.cache
+D:\Projeto Renato\BHBus\BHBus.Infra\obj\Debug\BHBus.Infra.dll
+D:\Projeto Renato\BHBus\BHBus.Infra\obj\Debug\BHBus.Infra.pdb

@@ -1,0 +1,12 @@
+D:\Projeto Renato\BHBus\BHBus.Application\bin\Debug\BHBus.Application.dll
+D:\Projeto Renato\BHBus\BHBus.Application\bin\Debug\BHBus.Application.pdb
+D:\Projeto Renato\BHBus\BHBus.Application\bin\Debug\BHBus.Domain.dll
+D:\Projeto Renato\BHBus\BHBus.Application\bin\Debug\BHBus.Infra.dll
+D:\Projeto Renato\BHBus\BHBus.Application\bin\Debug\EntityFramework.dll
+D:\Projeto Renato\BHBus\BHBus.Application\bin\Debug\BHBus.Domain.pdb
+D:\Projeto Renato\BHBus\BHBus.Application\bin\Debug\BHBus.Infra.pdb
+D:\Projeto Renato\BHBus\BHBus.Application\bin\Debug\BHBus.Infra.dll.config
+D:\Projeto Renato\BHBus\BHBus.Application\bin\Debug\EntityFramework.xml
+D:\Projeto Renato\BHBus\BHBus.Application\obj\Debug\BHBus.Application.csprojResolveAssemblyReference.cache
+D:\Projeto Renato\BHBus\BHBus.Application\obj\Debug\BHBus.Application.dll
+D:\Projeto Renato\BHBus\BHBus.Application\obj\Debug\BHBus.Application.pdb

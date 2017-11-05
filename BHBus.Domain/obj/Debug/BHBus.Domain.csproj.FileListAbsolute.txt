@@ -1,0 +1,5 @@
+D:\Projeto Renato\BHBus\BHBus.Domain\bin\Debug\BHBus.Domain.dll
+D:\Projeto Renato\BHBus\BHBus.Domain\bin\Debug\BHBus.Domain.pdb
+D:\Projeto Renato\BHBus\BHBus.Domain\obj\Debug\BHBus.Domain.csprojResolveAssemblyReference.cache
+D:\Projeto Renato\BHBus\BHBus.Domain\obj\Debug\BHBus.Domain.dll
+D:\Projeto Renato\BHBus\BHBus.Domain\obj\Debug\BHBus.Domain.pdb

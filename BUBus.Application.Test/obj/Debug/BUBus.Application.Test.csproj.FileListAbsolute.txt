@@ -1,0 +1,16 @@
+D:\Projeto Renato\BHBus\BUBus.Application.Test\bin\Debug\BUBus.Application.Test.dll
+D:\Projeto Renato\BHBus\BUBus.Application.Test\bin\Debug\BUBus.Application.Test.pdb
+D:\Projeto Renato\BHBus\BUBus.Application.Test\bin\Debug\BHBus.Application.dll
+D:\Projeto Renato\BHBus\BUBus.Application.Test\bin\Debug\BHBus.Domain.dll
+D:\Projeto Renato\BHBus\BUBus.Application.Test\bin\Debug\Castle.Core.dll
+D:\Projeto Renato\BHBus\BUBus.Application.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projeto Renato\BHBus\BUBus.Application.Test\bin\Debug\Moq.dll
+D:\Projeto Renato\BHBus\BUBus.Application.Test\bin\Debug\BHBus.Application.pdb
+D:\Projeto Renato\BHBus\BUBus.Application.Test\bin\Debug\BHBus.Domain.pdb
+D:\Projeto Renato\BHBus\BUBus.Application.Test\bin\Debug\Castle.Core.xml
+D:\Projeto Renato\BHBus\BUBus.Application.Test\bin\Debug\Moq.pdb
+D:\Projeto Renato\BHBus\BUBus.Application.Test\bin\Debug\Moq.xml
+D:\Projeto Renato\BHBus\BUBus.Application.Test\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Projeto Renato\BHBus\BUBus.Application.Test\obj\Debug\BUBus.Application.Test.csprojResolveAssemblyReference.cache
+D:\Projeto Renato\BHBus\BUBus.Application.Test\obj\Debug\BUBus.Application.Test.dll
+D:\Projeto Renato\BHBus\BUBus.Application.Test\obj\Debug\BUBus.Application.Test.pdb

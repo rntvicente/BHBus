@@ -1,0 +1,9 @@
+D:\Projeto Renato\BHBus\BHBus.Domain.Test\bin\Debug\BHBus.Domain.Test.dll
+D:\Projeto Renato\BHBus\BHBus.Domain.Test\bin\Debug\BHBus.Domain.Test.pdb
+D:\Projeto Renato\BHBus\BHBus.Domain.Test\bin\Debug\BHBus.Domain.dll
+D:\Projeto Renato\BHBus\BHBus.Domain.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Projeto Renato\BHBus\BHBus.Domain.Test\bin\Debug\BHBus.Domain.pdb
+D:\Projeto Renato\BHBus\BHBus.Domain.Test\bin\Debug\pt-BR\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Projeto Renato\BHBus\BHBus.Domain.Test\obj\Debug\BHBus.Domain.Test.csprojResolveAssemblyReference.cache
+D:\Projeto Renato\BHBus\BHBus.Domain.Test\obj\Debug\BHBus.Domain.Test.dll
+D:\Projeto Renato\BHBus\BHBus.Domain.Test\obj\Debug\BHBus.Domain.Test.pdb
